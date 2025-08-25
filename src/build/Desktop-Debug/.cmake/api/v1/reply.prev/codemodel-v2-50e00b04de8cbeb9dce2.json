@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-60945292909ce8d3c864.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SimpleXat",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-00f395c266b413c49a1b.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-d0ae9ff646efa5906425.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-f53baf613ffc4491d5fe.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-8d772cc55c59c2781f99.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-bee211b2d859644bee84.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleXat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleXat-Debug-0fe5ef1d8357722cd5dc.json",
+					"name" : "appSimpleXat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleXat_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleXat_autogen-Debug-e360fce682ddc260f112.json",
+					"name" : "appSimpleXat_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleXat_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleXat_autogen_timestamp_deps-Debug-15a26673220b30d0f5df.json",
+					"name" : "appSimpleXat_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleXat_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleXat_copy_qml-Debug-ffaa74caf42fedb8f552.json",
+					"name" : "appSimpleXat_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleXat_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleXat_copy_res-Debug-3209246bb5ddcf80e0e2.json",
+					"name" : "appSimpleXat_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleXat_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleXat_qmlimportscan-Debug-6c2aa4faf760328e1ea1.json",
+					"name" : "appSimpleXat_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleXat_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleXat_qmllint-Debug-3f289a8df1c410fb6d54.json",
+					"name" : "appSimpleXat_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleXat_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleXat_qmllint_json-Debug-658c7c86537e4423af1a.json",
+					"name" : "appSimpleXat_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleXat_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleXat_qmllint_module-Debug-d5b9019a22dacbe841f0.json",
+					"name" : "appSimpleXat_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSimpleXat_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSimpleXat_qmltyperegistration-Debug-cb0e73c440e3972a96d7.json",
+					"name" : "appSimpleXat_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appSimpleXat_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appSimpleXat_aotstats_target-Debug-263d9a1904069e486e5f.json",
+					"name" : "module_appSimpleXat_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/leyla/Projects/Git/SimpleXat/src/build/Desktop-Debug",
+		"source" : "/home/leyla/Projects/Git/SimpleXat/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

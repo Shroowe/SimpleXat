@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/SimpleXat">/home/leyla/Projects/Git/SimpleXat/src/build/Desktop-Debug/SimpleXat</file>
+
+  </qresource>
+</RCC>

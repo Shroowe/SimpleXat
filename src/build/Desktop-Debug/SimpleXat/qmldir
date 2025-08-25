@@ -1,0 +1,5 @@
+module SimpleXat
+typeinfo appSimpleXat.qmltypes
+prefer :/qt/qml/SimpleXat/
+Main 1.0 Main.qml
+

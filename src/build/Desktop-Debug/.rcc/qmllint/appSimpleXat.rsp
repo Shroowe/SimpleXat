@@ -1,0 +1,10 @@
+--bare
+-I
+/home/leyla/Projects/Git/SimpleXat/src/build/Desktop-Debug
+-I
+/usr/lib64/qt6/qml
+--resource
+/home/leyla/Projects/Git/SimpleXat/src/build/Desktop-Debug/.qt/rcc/qmake_SimpleXat.qrc
+--resource
+/home/leyla/Projects/Git/SimpleXat/src/build/Desktop-Debug/.qt/rcc/appSimpleXat_raw_qml_0.qrc
+/home/leyla/Projects/Git/SimpleXat/src/Main.qml
