@@ -1,0 +1,8 @@
+# Ignore debug files
+/src/build/Desktop-Debug/
+
+# macOS DS_Store BEGONE!
+.DS_Store
+
+# Windows thumbnail thingy
+Thumbs.db
