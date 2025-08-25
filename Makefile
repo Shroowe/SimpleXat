@@ -1,3 +1,5 @@
+SHELL=/bin/sh
+
 CC=gcc
 CFLAGS=-g
 CODE=src/
