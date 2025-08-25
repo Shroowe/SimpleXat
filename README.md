@@ -1,2 +1,2 @@
 # SimpleXat
-SimpleXat /Simple Chat/) 
+SimpleXat "/Simple Chat/" is an XMPP client. Just a lil project :3 
