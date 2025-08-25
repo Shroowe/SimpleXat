@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/SimpleXat">
-    <file alias="qmldir">/home/leyla/Projects/Git/SimpleXat/src/build/Desktop-Debug/SimpleXat/qmldir</file>
-  </qresource>
-</RCC>
-
