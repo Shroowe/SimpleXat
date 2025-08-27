@@ -6,7 +6,7 @@
 - [ ] - Get it working in unix-like systems
   - [ ] - (GNU/)Linux (Test in Debian, Arch, Gentoo (and Fedora, Ubuntu, OpenSUSE, would be nice. Dw for now))
   - [ ] - xBSD (test in FreeBSD (and NetBSD, OpenBSD, would be nice. Dw for now))
-  - [ ] macOS
+  - [ ] - macOS
 - [ ] - List all dependencies
 
 <h2>Later</h2>
